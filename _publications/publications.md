@@ -8,7 +8,7 @@ author_profile: true
 
 **Under Review**
 
-* Diviak T., **Paternoster C.**,  Jürgen L., Calderoni F. (2025+)
+* Diviak T, **Paternoster C**,  Jürgen L, Calderoni F. (2025+)
 Exploring the Dynamic Interplay between Communication and Co-offending Using
  Relational Hyperevent Data on an Italian Mafia Network.
 
@@ -48,4 +48,20 @@ Artificial Intelligence to Counter Cyber-Terrorism.
 *Proceedings of the International Conference on Cybersecurity and Cybercrime (IC3), 10, 12-20*
 
 
-**Other Publications (Policy Reports and Projects Deliverables**
+**Other Publications (Policy Reports and Projects Deliverables - selection)**
+
+* Nicolazzo G, Bernatskyi B, Ventre L, Cascone G, **Paternoster C**, Ovsiannikova I, Bremi D, Axinte L. (2025)
+Restrictive measures: the challenges in front of the EU. Report on schemes employed to circumvent sanctions. Milan: Transcrime - Joint Research Centre on Innovation and Crime. ISBN: 978-88-99719-50-0
+
+* Cascone G, **Paternoster C**, Riccardi M, Poltoratskaya V, Tóth B, Baez-Camargo C, Costa J, (2025). High-level Corruption: an Analysis of Schemes, Costs and of Policy Recommendations. Policy Brief of Project FALCON. Milan: Transcrime – Joint Research Centre on Innovation and Crime. ISBN: 978-88-99719-48-7
+
+* Nicolazzo G, **Paternoster C**, Cascone G, Ventre L, Anastasio M, Bernatskyi B, Riccardi M, Rondani C. (2024)
+Handbook on new forms of, and risk factors for, high-level transnational corruption schemes. Milan: Transcrime - Joint Research Centre on Innovation and Crime. ISBN: 9788899719494
+
+* **Paternoster C**, Mancuso M. (2023).
+Report on online radicalisation, extremism and terrorism. ALLIES project - AI-based framework for supporting micro and small HSPs on the report and removal of online terrorist content. *Available upon request*
+
+* Carbone C, **Paternoster C**, Riccardi M (2023).
+Beneficial owners of European companies (and related risks). In European Commission. Directorate General for Financial Stability, Financial Services and Capital Market Union. (Eds), *Preparatory action, Capacity building, programmatic development, and communication in the context of the fight against money laundering and financial crimes. Final report annexes (p 3-62)* Publications Office.
+
+* Dugato M, **Paternoster C**, Favarin S (2021). La Sicurezza nel Retail in Italia 2021. Milan: Crime&tech (Spin-off di Università Cattolica del Sacro Cuore-Transcrime). ISBN: 978-88-99719-27-2
