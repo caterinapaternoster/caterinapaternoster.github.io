@@ -7,22 +7,15 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# My CV
 
-Education
-======
+You can view or download my full CV below.
 
-Work experience
-======
-  
-Skills
-======
+[**Download PDF**]({{ site.baseurl }}/files/paternoster_cv.pdf){:target="_blank"}
 
-Publications
-======
-  
-Talks
-======
-  
-Teaching
-======
+<iframe
+  src="{{ site.baseurl }}/files/paternoster_cv.pdf"
+  width="100%"
+  height="900"
+  style="border:none;">
+</iframe>
