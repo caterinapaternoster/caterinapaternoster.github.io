@@ -7,11 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# My CV
-
-You can view or download my full CV below.
-
-[**Download PDF**]({{ site.baseurl }}/files/paternoster_cv.pdf){:target="_blank"}
+You can view or download my full CV here: [**Download PDF**]({{ site.baseurl }}/files/paternoster_cv.pdf){:target="_blank"}
 
 <iframe
   src="{{ site.baseurl }}/files/paternoster_cv.pdf"
