@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+* _Tenth International Workshop on Social Network Analysis (ARS'25)_ 30-31 October 2025 - Naples, Italy.
+Paternoster C, Calderoni F. Ties to Trus: Patterns of Collaboration in 'Ndrnagheta clans.
+
 * _Annual Meeting of the European Society of Criminology_ 03-06 September 2025 - Athens, Greece.
 Paternoster C, Calderoni F. Ties to Trus: Patterns of Collaboration in 'Ndrnagheta clans.
 
