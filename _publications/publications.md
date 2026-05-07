@@ -8,6 +8,9 @@ author_profile: true
 
 **Under Review**
 
+* Screen P, **Paternoster C.** (2026+) Methodological Approaches and Challenges in Mapping Cross-Border Drug Flows and Their
+Determinants. Under peer review at Oxford Intersections.
+
 * **Paternoster C**, Calderoni F. (2025+) Ties to Trust: Factors Influencing Collaboration Within and Across Organised Criminal Groups.
 
 * Diviak T, **Paternoster C**,  Jürgen L, Calderoni F. (2025+)
