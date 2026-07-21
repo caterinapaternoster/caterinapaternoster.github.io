@@ -13,6 +13,9 @@ Master Degree in Security, Deviance, and Risk Control, Università Milano-Bicocc
 * _Quantitative Methods for Social Sciences (Data Analytics)_: Teaching Assistant, 25 hours.
 Bachelor Degree in Data, Society & Organisations HEC-BOCCONI, Università Bocconi, Milan
 
+* _Data Science Laboratory_: Instructor, 12 hours.
+Bocconi Summer School for High School Students, Università Bocconi, Milan  
+
 
 **2024-2025**
 
