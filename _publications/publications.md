@@ -8,14 +8,15 @@ author_profile: true
 
 **Under Review**
 
+* Diviak T, **Paternoster C**,  Jürgen L, Calderoni F. (2026+)
+Exploring the Dynamic Interplay between Communication and Co-offending Using
+ Relational Hyperevent Data on an Italian Mafia Network.
+
 * Screen P, **Paternoster C.** (2026+) Methodological Approaches and Challenges in Mapping Cross-Border Drug Flows and Their
 Determinants. Under peer review at Oxford Intersections.
 
 * **Paternoster C**, Calderoni F. (2025+) Ties to Trust: Factors Influencing Collaboration Within and Across Organised Criminal Groups.
 
-* Diviak T, **Paternoster C**,  Jürgen L, Calderoni F. (2025+)
-Exploring the Dynamic Interplay between Communication and Co-offending Using
- Relational Hyperevent Data on an Italian Mafia Network.
 
 
 **Journals**
@@ -31,7 +32,7 @@ Inside the Leak: Exploring the Structure of the Conti Ransomware Group.
 * Mademlis I, Mancuso M, **Paternoster C**, Evangelatos S, Finlay E, Hughes J, 
 Radoglou-Grammatikis P, Sarigiannidis P, Stavropoulos G, Votis K, Papadopoulos G Th. (2024)
 The invisible arms race: digital trends in illicit goods trafficking and AI-enabled responses.
-*IEE Transactions on Technology and Society 6(2), 181-199.* [https://doi.org/10.1109/TTS.2024.3514683](https://doi.org/10.1109/TTS.2024.3514683)
+*IEEE Transactions on Technology and Society 6(2), 181-199.* [https://doi.org/10.1109/TTS.2024.3514683](https://doi.org/10.1109/TTS.2024.3514683)
 
 
 **Book Chapters**
