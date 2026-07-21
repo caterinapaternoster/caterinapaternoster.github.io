@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* _Illicit Networks Workshop_ 30-31 October 2025 - Vienna, Austria.
+* _Illicit Networks Workshop_ 29-30 June 2026 - Vienna, Austria.
 Paternoster C.: Structural Patterns in Interfamily Marriages in the ’Ndrangheta.
 
 * _Tenth International Workshop on Social Network Analysis (ARS'25)_ 30-31 October 2025 - Naples, Italy.
